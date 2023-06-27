@@ -1,17 +1,17 @@
-# print("priject2-gol ya pouch")
+print("priject2-gol ya pouch")
 
-# number_faild = 0
-# UniNmber = input("lotfan Shomare Daneshjoie khod ra vared konid:")
-# password = input("lotfan password khod ra vared konid:")
-# while UniNmber != 1234 and password != "5678" :
-#     print("password ya Shomare Daneshjoie shoma eshtebahe ")
-#     number_faild =+  1
+number_faild = 0
+UniNmber = input("lotfan Shomare Daneshjoie khod ra vared konid:")
+password = input("lotfan password khod ra vared konid:")
+while UniNmber != 1234 and password != "5678" :
+    print("password ya Shomare Daneshjoie shoma eshtebahe ")
+    number_faild =+  1
     
-#     UniNmber = input("dobare Shomare Daneshjoie khod ra vared konid:")    
-#     password = input("dobare passwoed khod ra vared konid:")
-# print("vared shodid")
-# print("------------------------------------------------------------")
-# print("\n")
+    UniNmber = input("dobare Shomare Daneshjoie khod ra vared konid:")    
+    password = input("dobare passwoed khod ra vared konid:")
+print("vared shodid")
+print("------------------------------------------------------------")
+print("\n")
 
 Emtiazp1 = 0
 Emtiazp2 = 0
